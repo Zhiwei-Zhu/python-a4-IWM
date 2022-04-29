@@ -13,4 +13,7 @@ lancer le jeu :
 lancer le CRUD:
    - cd projet_test
    - python manage.py runserver
+lancer le CRUD:
+   - cd projet
+   - python manage.py runserver
  
