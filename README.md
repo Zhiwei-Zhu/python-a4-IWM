@@ -13,7 +13,8 @@ lancer le jeu :
 lancer le CRUD:
    - cd projet_test
    - python manage.py runserver
-lancer le CRUD:
-   - cd projet
+
+lancer le socket:
+   - cd projet_test
+   - docker run -p 6379:6379 -d redis:5
    - python manage.py runserver
- 
