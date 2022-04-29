@@ -7,7 +7,7 @@ django :
   - projet_test => CRUD
 
 lancer le jeu :
-   - cd stressful/
+   - cd stressfulgame
    - python game.py ou python3 game.py
  
 lancer le CRUD:
