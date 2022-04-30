@@ -5,7 +5,13 @@ stressfulgame => jeu pygame
 django :
   - projet => socket
   - projet_test => CRUD
+but du jeu :
+  monter sur la dernière plateforme tout évitant les boules qui tombes
 
+controle du jeu :
+  - Q = gauche
+  - D = droite 
+  - SPACE = sauter
 lancer le jeu :
    - cd stressfulgame
    - python game.py ou python3 game.py
