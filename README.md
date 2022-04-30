@@ -12,6 +12,7 @@ controle du jeu :
   - Q = gauche
   - D = droite 
   - SPACE = sauter
+
 lancer le jeu :
    - cd stressfulgame
    - python game.py ou python3 game.py
